@@ -5,6 +5,7 @@ Welcome to the Java Arrays mini-concept guide! This repository provides a simple
 An array in Java is a container object that holds a fixed number of elements of a single type. Once created, its size is fixed and cannot be changed.
 
 🚀 Key Points
+
 1.Arrays are zero-indexed: the first element is at index 0.
 
 2.You must specify the type and size at creation.
@@ -14,11 +15,13 @@ An array in Java is a container object that holds a fixed number of elements of 
 The default values for arrays depend on the data type: e.g., 0 for int, null for objects, false for boolean.
 
 🔍 Types of Arrays
+
 1.One-Dimensional Arrays: Basic arrays like int[] arr.
 
 2.Multi-Dimensional Arrays: Arrays of arrays (e.g., 2D arrays like int[][] matrix).
 
 📦 Applications of Arrays
+
 1.Storing collections of data (scores, names, etc.)
 
 2.Foundations for advanced structures (lists, matrices, etc.)
@@ -26,5 +29,6 @@ The default values for arrays depend on the data type: e.g., 0 for int, null for
 3.Used in sorting, searching, and algorithm design
 
 📌 Conclusion
+
 Arrays are essential for efficient data handling in Java. Understanding them is a foundational step toward mastering Java programming and data structures.
 
